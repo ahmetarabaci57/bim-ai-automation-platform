@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <!-- The Global Continuous AI Server Background Process -->
+  <AddIn Type="Application">
+    <Name>BIM AI Continuous Sync Application</Name>
+    <Assembly>C:\Users\hp\Desktop\BIM-AI-Automation-Platform\src\RevitPlugin\bin\x64\Debug\net8.0-windows\RevitPlugin.dl</Assembly>
+    <FullClassName>RevitWindowAutomation.AppMain</FullClassName>
+    <ClientId>B2C3D4E5-F6A7-4B8C-9D0E-1F2A3B4C5D6E</ClientId>
+    <VendorId>AUTOMATION_ARCHITECT</VendorId>
+    <VendorDescription>BIM Developer</VendorDescription>
+  </AddIn>
+</RevitAddIns>
